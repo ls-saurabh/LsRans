@@ -22,7 +22,7 @@ This is a simple file encryption and decryption tool written in Python. The tool
 
 **Getting Started:**
 
-1. Clone the repository: `git clone https://github.com/yourusername/LsRans.git`
+1. Clone the repository: `git clone https://github.com/ls-saurabh/LsRans.git`
 2. Navigate to the repository directory: `cd LsRans`
 3. Install dependencies (if any): `pip install -r requirements.txt`
 4. Run the encryption script: `python encrypt.py`
