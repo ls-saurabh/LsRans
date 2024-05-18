@@ -24,10 +24,11 @@ This is a simple file encryption and decryption tool written in Python. The tool
 
 1. Clone the repository: `git clone https://github.com/ls-saurabh/LsRans.git`
 2. Navigate to the repository directory: `cd LsRans`
-3. Install dependencies (if any): `pip install -r requirements.txt`
-4. Run the encryption script: `python encrypt.py`
-5. Follow the on-screen instructions to encrypt your files.
-6. To decrypt files, execute the decryption script: `python decrypt.py`
+''' **Note** 
+Before running the 'encrypt.py' replace the path of the folder from the code '''
+3. Run the encryption script: `python encrypt.py`
+4. Follow the on-screen instructions to encrypt your files.
+5. To decrypt files, execute the decryption script: `python decrypt.py`
 
 **Contributing:**
 
