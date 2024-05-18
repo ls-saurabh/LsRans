@@ -24,8 +24,10 @@ This is a simple file encryption and decryption tool written in Python. The tool
 
 1. Clone the repository: `git clone https://github.com/ls-saurabh/LsRans.git`
 2. Navigate to the repository directory: `cd LsRans`
-''' **Note** 
-Before running the 'encrypt.py' replace the path of the folder from the code '''
+'''
+ **Note** 
+Before running the 'encrypt.py' replace the path of the folder from the code 
+'''
 3. Run the encryption script: `python encrypt.py`
 4. Follow the on-screen instructions to encrypt your files.
 5. To decrypt files, execute the decryption script: `python decrypt.py`
