@@ -31,7 +31,9 @@ This Python program provides functionality for securely encrypting and decryptin
 
 To install the necessary libraries, run:
 
+'''
 pip install pycryptodome
+'''
 
 ### Installation
 
