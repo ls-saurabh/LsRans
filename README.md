@@ -37,7 +37,8 @@ pip install pycryptodome
 
 ### Installation
 
-1. ```
+1. 
+```
 git clone https://github.com/ls-saurabh/LsRans
 ```
 2. Install dependencies using pip:
