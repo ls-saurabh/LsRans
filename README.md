@@ -51,14 +51,18 @@ pip install pycryptodome
 1. Encrypting Files:
    - To encrypt all files in a directory, run the encryption script:
 
+```
 python encrypt.py
+```
 
    - This will recursively encrypt all files in the specified directory and create metadata (.meta) and key (.key) files for each encrypted file. The AES encryption is performed with a randomly generated 256-bit key, and the IV is stored in the encrypted file itself.
 
 2. Decrypting Files:
    - To decrypt the files, use the decryption script:
 
+```
 python decrypt.py
+```
 
    - The decryption process will automatically detect the .key and .meta files associated with each encrypted file and use them for decryption. The integrity of each file is verified using the HMAC stored in the .meta file.
 
