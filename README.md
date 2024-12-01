@@ -36,14 +36,15 @@ pip install pycryptodome
 ```
 
 ### Installation
-
-1. 
+ 
 ```
-git clone https://github.com/ls-saurabh/LsRans
+1. git clone https://github.com/ls-saurabh/LsRans
 ```
 2. Install dependencies using pip:
 
+```
 pip install pycryptodome
+```
 
 3. Modify configuration settings:
    - The encryption and decryption directories are set by default in the script. Update the paths as necessary in the encryption_directory and decryption_directory variables.
