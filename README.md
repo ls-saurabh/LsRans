@@ -37,8 +37,9 @@ pip install pycryptodome
 
 ### Installation
 
-1. Clone the repository or copy the script files into your working directory.
-
+1. ```
+git clone https://github.com/ls-saurabh/LsRans
+```
 2. Install dependencies using pip:
 
 pip install pycryptodome
